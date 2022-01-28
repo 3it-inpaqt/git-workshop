@@ -1,4 +1,4 @@
-def is_prime_number(num)
+def is_prime_number(num):
     # Program to check if a number is prime or not
     # From: https://www.programiz.com/python-programming/examples/prime-number
 
